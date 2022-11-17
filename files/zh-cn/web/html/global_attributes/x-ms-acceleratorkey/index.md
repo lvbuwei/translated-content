@@ -32,7 +32,7 @@ original_slug: Web/HTML/Global_attributes/x-ms-加速装置键
 
   <kbd>B</kbd>
 
-  秘钥。
+  键。
 
 - `"J"` 只是为了
 
